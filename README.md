@@ -24,6 +24,10 @@ _✨ 使用 OpenAI 标准格式 API 的聊天机器人插件 ✨_
 
 <img width="100%" src="https://starify.komoridevs.icu/api/starify?owner=LiteyukiStudio&repo=nonebot-plugin-marshoai" alt="starify" />
 
+[小绵开发工具](./markdown/README_TOOLS.md) | [MarshoAI Dev Tools](./markdown/README_TOOLS_EN.md)
+
+[English](./markdown/README_TOOLS_EN.md)
+
 ## 📖 介绍
 
 通过调用 OpenAI 标准格式 API（例如 GitHub Models API），来实现聊天的插件。  
